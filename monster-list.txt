@@ -1,0 +1,7 @@
+# Item List
+# Any lines beginning with a '#' are comments.
+# 
+# Syntax: [monster name],accuracy,damage,armor class,hit points,symbol
+giant rat,20,4,0,20,r
+wild dog,30,6,0,40,d
+kobold,40,8,1,60,k

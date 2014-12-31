@@ -1,0 +1,14 @@
+# Item List
+# Any lines beginning with a '#' are comments.
+# 
+# Weapons
+# Syntax: weapon,[weapon name],accuracy rating,damage rating,symbol
+weapon,club,-5,15,)
+weapon,knife,4,20,)
+weapon,dagger,8,25,)
+#
+# Armor
+# Syntax: armor,[armor name],armor class rating,symbol
+armor,robe,1,[
+armor,padded armor,3,[
+armor,leather armor,5,[
